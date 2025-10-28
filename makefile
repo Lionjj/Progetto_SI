@@ -1,5 +1,5 @@
 # Nome abiente virtulae
-VENV = venv
+VENV = myenv
 
 # Installa le dipendenze
 install:

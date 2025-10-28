@@ -10,3 +10,5 @@ tensorflow>=2.6.0,<3.0.0
 torch==1.10.0
 matplotlib
 seaborn
+joblib
+scipy
